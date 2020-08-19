@@ -12,5 +12,7 @@
      
    printf("Chau Tran!\n");
    printf("Computer Science\n");
+     printf("Khang Nguyen");
+     printf("Computer Science");
  return 0;
 }
